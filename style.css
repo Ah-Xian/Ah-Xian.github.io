@@ -1,0 +1,63 @@
+a:link,a:visited{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+a:active{
+    color: #000;
+}
+#banner{
+    height: 380px;
+    background-color: pink;
+}
+#db{
+    height: 30px;
+    background-image: linear-gradient(to bottom,black,red);
+}
+#box01{
+    height: 30px;
+    line-height: 30px;
+    background-image: linear-gradient(to bottom,black,red);
+    padding: 0 10px;
+    float: left;
+}
+#tu{
+    height: 350px;
+    align-self: center ;
+    background: url("./import/59a042ffe9899d16f28b99acc030a9a7.jpg") no-repeat;
+    background-size: 100% 100%;
+}
+#dahe{
+    color: purple;
+    height: 800px;
+    width: 175px;
+    background-image: linear-gradient(to right,purple,red);
+    border-bottom: 1px solid white;
+    float: left;
+}
+#xiaohe{
+    height: 55px;
+    width: 175x;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 55px;
+}
+#jsnl{
+    height: 800px;
+    width: 1500px;
+    line-height:20px ;
+    border: 1px solid slategray;
+    background-color: #000;
+}
+#dh{
+    height: 600;
+}
+#jbwb{
+    height: 300;
+    background-color: #000;
+    color:white;
+    text-align: center;
+}
